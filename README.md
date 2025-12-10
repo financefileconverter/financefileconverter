@@ -21,16 +21,6 @@ FinanceFileConverter solves this by offering a complete suite of converters that
 
 ---
 
-## Trusted by Finance Professionals and Industry Leaders
-
-> “I handle dozens of client files every week, and FinanceFileConverter has been a total game-changer. Upload, convert, done. No more reformatting headaches.”  
-**Alina Petrovna** – Bookkeeper at ClearBalance
-
-> “Fast, accurate, and secure. I can trust FinanceFileConverter with sensitive client data and get clean Excel files instantly.”  
-**Daniel Braden, CPA** – Brightline Accounting
-
----
-
 ## Available Converters
 
 Below is the full set of tools offered by FinanceFileConverter. Each tool has its own dedicated page in this repository.

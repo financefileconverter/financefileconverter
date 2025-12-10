@@ -1,4 +1,4 @@
-# FinanceFileConverter — The world’s most trusted suite of financial file converters
+# FinanceFileConverter - The world’s most trusted suite of financial file converters
 
 FinanceFileConverter.com provides fast, accurate, and secure tools for converting bank statements and accounting files. Convert PDFs, QBO, CSV, OFX, QFX, QIF, IIF, XLSX, and more in seconds. Trusted by finance professionals, accountants, and bookkeepers around the world.
 
@@ -9,7 +9,7 @@ https://financefileconverter.com/
 
 ## Why FinanceFileConverter exists
 
-Financial files come in dozens of formats, and most software tools only support a few of them. Accountants and business owners spend hours reformatting, cleaning, and restructuring messy exports — but they shouldn’t have to.
+Financial files come in dozens of formats, and most software tools only support a few of them. Accountants and business owners spend hours reformatting, cleaning, and restructuring messy exports, but they should not have to.
 
 FinanceFileConverter solves this by offering a complete suite of converters that:
 
@@ -17,17 +17,17 @@ FinanceFileConverter solves this by offering a complete suite of converters that
 - Preserve all rows, columns, and descriptions  
 - Support multi-file batch uploads  
 - Produce files ready for Excel, CSV, QuickBooks, Xero, and other accounting tools  
-- Run securely in your browser — nothing to install  
+- Run securely in your browser with nothing to install  
 
 ---
 
 ## Trusted by Finance Professionals and Industry Leaders
 
 > “I handle dozens of client files every week, and FinanceFileConverter has been a total game-changer. Upload, convert, done. No more reformatting headaches.”  
-**Alina Petrovna** — Bookkeeper at ClearBalance
+**Alina Petrovna** – Bookkeeper at ClearBalance
 
 > “Fast, accurate, and secure. I can trust FinanceFileConverter with sensitive client data and get clean Excel files instantly.”  
-**Daniel Braden, CPA** — Brightline Accounting
+**Daniel Braden, CPA** – Brightline Accounting
 
 ---
 
@@ -104,12 +104,12 @@ Below is the full set of tools offered by FinanceFileConverter. Each tool has it
 
 ## What makes FinanceFileConverter different?
 
-- **Instant conversions** — most files process in seconds  
-- **Accurate formatting** — rows, columns, and descriptions stay intact  
-- **Browser-based** — no installation or downloads  
-- **Multi-file support** — upload one file or dozens  
-- **Professional-grade output** — trusted by CPAs, bookkeepers, and finance teams  
-- **Secure** — files are processed safely, with no long-term storage  
+- **Instant conversions** with most files processed in seconds  
+- **Accurate formatting** with rows, columns, and descriptions kept intact  
+- **Browser-based** tools with no installation or downloads  
+- **Multi-file support** allowing one or many uploads  
+- **Professional-grade output** trusted by CPAs, bookkeepers, and finance teams  
+- **Secure** processing with no long-term file storage  
 
 ---
 
@@ -117,4 +117,3 @@ Below is the full set of tools offered by FinanceFileConverter. Each tool has it
 
 Visit the official website to explore all tools, guides, and updates:  
 👉 https://financefileconverter.com/
-

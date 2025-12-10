@@ -1,16 +1,120 @@
-## Hi there 👋
+# FinanceFileConverter — The world’s most trusted suite of financial file converters
 
-<!--
-**financefileconverter/financefileconverter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FinanceFileConverter.com provides fast, accurate, and secure tools for converting bank statements and accounting files. Convert PDFs, QBO, CSV, OFX, QFX, QIF, IIF, XLSX, and more in seconds. Trusted by finance professionals, accountants, and bookkeepers around the world.
 
-Here are some ideas to get you started:
+👉 **Visit the homepage:**  
+https://financefileconverter.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Why FinanceFileConverter exists
+
+Financial files come in dozens of formats, and most software tools only support a few of them. Accountants and business owners spend hours reformatting, cleaning, and restructuring messy exports — but they shouldn’t have to.
+
+FinanceFileConverter solves this by offering a complete suite of converters that:
+
+- Clean and structure financial data automatically  
+- Preserve all rows, columns, and descriptions  
+- Support multi-file batch uploads  
+- Produce files ready for Excel, CSV, QuickBooks, Xero, and other accounting tools  
+- Run securely in your browser — nothing to install  
+
+---
+
+## Trusted by Finance Professionals and Industry Leaders
+
+> “I handle dozens of client files every week, and FinanceFileConverter has been a total game-changer. Upload, convert, done. No more reformatting headaches.”  
+**Alina Petrovna** — Bookkeeper at ClearBalance
+
+> “Fast, accurate, and secure. I can trust FinanceFileConverter with sensitive client data and get clean Excel files instantly.”  
+**Daniel Braden, CPA** — Brightline Accounting
+
+---
+
+## Available Converters
+
+Below is the full set of tools offered by FinanceFileConverter. Each tool has its own dedicated page in this repository.
+
+### **Bank Statement (PDF) Converters**
+- **PDF Bank Statement to Excel / CSV**  
+  Convert PDF statements into clean Excel or CSV files.  
+  `/converters/bank-statement-to-excel.md`
+
+---
+
+### **OFX Converters**
+- **OFX to PDF**  
+  Create clean, shareable PDF reports from OFX files.  
+  `/converters/ofx-to-pdf.md`
+
+- **OFX to QBO**  
+  Convert OFX files into QuickBooks-ready QBO format.  
+  `/converters/ofx-to-qbo.md`
+
+- **OFX to QFX**  
+  Reformat OFX data into QFX for Quicken.  
+  `/converters/ofx-to-qfx.md`
+
+---
+
+### **QFX Converters**
+- **QFX to CSV**  
+  Extract QFX data into editable CSV spreadsheets.  
+  `/converters/qfx-to-csv.md`
+
+- **QFX to Excel**  
+  Turn QFX transaction records into clean Excel files.  
+  `/converters/qfx-to-excel.md`
+
+- **QFX to OFX**  
+  Convert QFX files into OFX format for accounting software.  
+  `/converters/qfx-to-ofx.md`
+
+- **QFX to PDF**  
+  Generate readable PDF summaries from QFX files.  
+  `/converters/qfx-to-pdf.md`
+
+---
+
+### **QIF Converters**
+- **QIF to CSV**  
+  Convert QIF files into clean CSVs for Excel or import.  
+  `/converters/qif-to-csv.md`
+
+- **QIF to Excel**  
+  Create structured Excel spreadsheets from QIF exports.  
+  `/converters/qif-to-excel.md`
+
+- **QIF to PDF**  
+  Generate readable PDF summaries from QIF files.  
+  `/converters/qif-to-pdf.md`
+
+---
+
+### **IIF Converters**
+- **IIF to CSV**  
+  Extract transaction data from IIF exports into clean CSV spreadsheets.  
+  `/converters/iif-to-csv.md`
+
+- **IIF to Excel**  
+  Convert IIF files into editable, structured Excel files.  
+  `/converters/iif-to-excel.md`
+
+---
+
+## What makes FinanceFileConverter different?
+
+- **Instant conversions** — most files process in seconds  
+- **Accurate formatting** — rows, columns, and descriptions stay intact  
+- **Browser-based** — no installation or downloads  
+- **Multi-file support** — upload one file or dozens  
+- **Professional-grade output** — trusted by CPAs, bookkeepers, and finance teams  
+- **Secure** — files are processed safely, with no long-term storage  
+
+---
+
+## Learn more
+
+Visit the official website to explore all tools, guides, and updates:  
+👉 https://financefileconverter.com/
+

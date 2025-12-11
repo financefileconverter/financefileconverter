@@ -17,7 +17,7 @@ This tool converts IIF files into:
 
 Perfect for:
 
-- IIF to CSV conversion  
+- Converting IIF to CSV   
 - Migrating data from QuickBooks Desktop  
 - Cleaning up transaction exports for analysis or imports  
 
